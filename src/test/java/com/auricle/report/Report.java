@@ -24,6 +24,22 @@ public class Report {
 
 	}
 
+	private void apiTesting() {
+		System.out.println("POSTMAN");
+
+	}
+
+	private void mobileTesting() {
+		System.out.println("APPIUM");
+
+	}
+
+	private void webTesting() {
+		System.out.println("SELENIUM");
+
+
+	}
+	
 	private void javascript() {
 		System.out.println("JS");
 
@@ -36,7 +52,7 @@ public class Report {
 
 	private void python() {
 		System.out.println("PY");
-
+		
 	}
 
 }
