@@ -24,4 +24,19 @@ public class Report {
 
 	}
 
+	private void apiTesting() {
+		System.out.println("POSTMAN");
+
+	}
+
+	private void mobileTesting() {
+		System.out.println("APPIUM");
+
+	}
+
+	private void webTesting() {
+		System.out.println("SELENIUM");
+
+	}
+
 }
