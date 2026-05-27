@@ -24,4 +24,19 @@ public class Report {
 
 	}
 
+	private void javascript() {
+		System.out.println("JS");
+
+	}
+
+	private void typescript() {
+		System.out.println("TS");
+
+	}
+
+	private void python() {
+		System.out.println("PY");
+
+	}
+
 }
